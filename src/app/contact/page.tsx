@@ -118,7 +118,7 @@ export default function Contact() {
               <FaMapMarkerAlt className="h-6 w-6 text-primary" />
               <div>
                 <h3 className="font-semibold">Location</h3>
-                <p className="text-secondary">Gudalur, Nilgiri's, Tamil Nadu</p>
+                <p className="text-secondary">Gudalur, Nilgiri&apos;s, Tamil Nadu</p>
               </div>
             </motion.div>
           </motion.div>
@@ -197,7 +197,7 @@ export default function Contact() {
                 initial={{ opacity: 0, y: 10 }}
                 animate={{ opacity: 1, y: 0 }}
               >
-                Message sent successfully!
+                Message sent successfully
               </motion.p>
             )}
             
