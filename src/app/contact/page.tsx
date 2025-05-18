@@ -68,7 +68,7 @@ export default function Contact() {
           <motion.div {...fadeInUp}>
             <h2 className="text-2xl font-semibold mb-4">Get in Touch</h2>
             <p className="text-secondary">
-              I&apos;m always open to discussing new projects, creative ideas, or
+              Im always open to discussing new projects, creative ideas, or
               opportunities to be part of your visions.
             </p>
           </motion.div>
@@ -118,7 +118,7 @@ export default function Contact() {
               <FaMapMarkerAlt className="h-6 w-6 text-primary" />
               <div>
                 <h3 className="font-semibold">Location</h3>
-                <p className="text-secondary">Gudalur, Nilgiri&apos;s, Tamil Nadu</p>
+                <p className="text-secondary">Gudalur, Nilgiris, Tamil Nadu</p>
               </div>
             </motion.div>
           </motion.div>
